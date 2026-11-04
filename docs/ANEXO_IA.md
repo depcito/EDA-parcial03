@@ -8,21 +8,19 @@ Asistente de código generativo (Claude, a través de Claude Code) para generar 
 
 ## 2. Prompts relevantes
 
-| # | Prompt (resumen fiel) | Resultado |
-|---|---|---|
-| 1 | «Requerimientos principales
-
+ Requerimientos principales:
+ 
 Fuente de datos: identifica y utiliza la fuente de datos indicada en el enunciado. Explica brevemente su procedencia, contenido y relevancia para el análisis. No utilices fuentes de datos alternativas sin justificación ni inventes información que no esté respaldada por los datos disponibles.
 
 Análisis de la información: realiza el procesamiento y análisis necesario para responder las preguntas planteadas en el parcial. Entre los aspectos que se deben contemplar se encuentran:
 
-¿Cuántas personas se encuentran heridas?
+- ¿Cuántas personas se encuentran heridas?
 
-¿Cuáles son las zonas geográficas más afectadas?
+- ¿Cuáles son las zonas geográficas más afectadas?
 
-¿Cómo se distribuyen los afectados según la información disponible?
+- ¿Cómo se distribuyen los afectados según la información disponible?
 
-¿Qué patrones, tendencias o concentraciones relevantes pueden identificarse en los datos?
+- ¿Qué patrones, tendencias o concentraciones relevantes pueden identificarse en los datos?
 
 Resolución de las preguntas: responde de manera clara, precisa y sustentada cada una de las preguntas del enunciado. No te limites a presentar resultados numéricos; explica qué significan y qué conclusiones pueden extraerse de ellos.
 
