@@ -1,0 +1,10 @@
+hub_id,name,department,kind,lat,lon,capacity_m3
+H-BOG,Aeropuerto El Dorado (Bogotá),Bogotá D.C.,AEROPUERTO,4.701,-74.147,6000
+H-MDE,Aeropuerto de Rionegro (Antioquia),Antioquia,AEROPUERTO,6.164,-75.423,3500
+H-CLO,Aeropuerto de Palmira (Valle),Valle del Cauca,AEROPUERTO,3.543,-76.381,3500
+H-BUN,Puerto de Buenaventura,Valle del Cauca,PUERTO,3.9,-77.06,9000
+H-BAQ,Puerto de Barranquilla,Atlántico,PUERTO,10.98,-74.77,7000
+H-PEI,Acopio regional Pereira,Risaralda,ACOPIO,4.806,-75.739,2500
+H-IBA,Acopio regional Ibagué,Tolima,ACOPIO,4.44,-75.2,1800
+H-MAN,Acopio regional Manizales,Caldas,ACOPIO,5.04,-75.47,1500
+H-AXM,Acopio aeropuerto de Armenia,Quindío,ACOPIO,4.453,-75.766,1200

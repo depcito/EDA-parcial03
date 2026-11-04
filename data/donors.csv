@@ -1,0 +1,25 @@
+donor_id,name,kind,origin
+D-001,Fundación Sol Naciente,ONG,Bucaramanga
+D-002,Alianza Humanitaria Andina,ONG,Cali
+D-003,Corporación Agua Viva,ONG,Cali
+D-004,Banco de Alimentos del Café,ONG,Bucaramanga
+D-005,TransAndes Logística,EMPRESA,Miami
+D-006,Farmacéutica Meridiano,EMPRESA,Madrid
+D-007,Constructora Cordillera,EMPRESA,Medellín
+D-008,Supermercados La Quinta,EMPRESA,Bogotá
+D-009,Embotelladora Río Claro,EMPRESA,Barranquilla
+D-010,Gobierno Aliado Norte (cooperación),INTERNACIONAL,Barranquilla
+D-011,Fondo Humanitario Atlántico,INTERNACIONAL,Miami
+D-012,Misión Médica Sin Fronteras (simulada),INTERNACIONAL,Miami
+D-013,Cooperativa Cafetera del Occidente,EMPRESA,Cartagena
+D-014,Gobernación Aliada 1,GOBIERNO,Bogotá
+D-015,Gobernación Aliada 2,GOBIERNO,Medellín
+D-016,Alcaldía Solidaria,GOBIERNO,Barranquilla
+D-017,Colegio Los Pinos (campaña),ONG,Ciudad de México
+D-018,Universidad Solidaria (campaña),ONG,Barranquilla
+D-019,Iglesia San Isidro (campaña),ONG,Ciudad de México
+D-020,Ciudadano anónimo 1,PERSONA,Medellín
+D-021,Ciudadano anónimo 2,PERSONA,Bucaramanga
+D-022,Ciudadano anónimo 3,PERSONA,Barranquilla
+D-023,Empresa Textil Aurora,EMPRESA,Ciudad de México
+D-024,Ferretería Industrial del Valle,EMPRESA,Ciudad de México

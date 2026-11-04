@@ -1,0 +1,7 @@
+{
+  "name": "Sismo sintético del Eje Cafetero (escenario de simulación)",
+  "event_date": "2026-03-01",
+  "epicenter_lat": 4.4,
+  "epicenter_lon": -75.75,
+  "magnitude": 6.8
+}
