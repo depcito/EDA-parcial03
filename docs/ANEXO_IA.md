@@ -1,6 +1,7 @@
 # Anexo de transparencia técnica — uso de Inteligencia Artificial
 
-> **Para el equipo:** este anexo documenta el uso de IA en la construcción del proyecto. Antes de entregar, **cada integrante debe leerlo, completar los campos marcados `(completar)` con sus propios prompts y ajustes, y poder sustentar cada bloque de código**. El desconocimiento del código conlleva la anulación del criterio de evaluación.
+## Link del repositorio
+https://github.com/depcito/EDA-parcial03/tree/main
 
 ## 1. Herramienta
 
@@ -66,7 +67,7 @@ Utiliza un lenguaje académico, técnico y claro, apropiado para la presentació
 - Una discrepancia que apareció en los benchmarks se reportó tal cual: `bisect.insort` supera al heap con n pequeño en CPython (memmove en C), y la ventaja del heap aparece con n grande.
 - Todas las cifras de las preguntas del reto se calculan en código (`analysis.py`) y no están escritas a mano en los datos.
 
-## 5. Guion de sustentación (preguntas que el equipo debe saber responder)
+## 5. preguntas de sustentación (preguntas que el equipo debe saber responder)
 
 1. ¿Por qué el hash map da O(1) amortizado y qué pasa con las colisiones?
 2. En el Min-Max heap, ¿en qué nivel están los máximos? ¿Por qué `pop_max` mira solo los índices 1 y 2?
